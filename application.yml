@@ -1,8 +1,4 @@
-server:
-  port: 8099
 eureka:
   client:
     register-with-eureka: false
     fetch-registry: false
-  instance:
-    hostname: myhost
